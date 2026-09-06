@@ -1,1 +1,1 @@
-# Capstone-project
+# Capstone-project LittleLemon Restaurant Management REST API.
